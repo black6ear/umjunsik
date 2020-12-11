@@ -20,3 +20,13 @@ $link
 ```
 
 ![급식](https://user-images.githubusercontent.com/58897994/101783062-22556e00-3b3d-11eb-8c12-3b13cff9bb59.png)
+
+## 디스코드
+
+![디스코드](https://discord.gg/Rktu9DUtSD)주소입니다.
+
+## 문의
+
+문의는 제 디스코드 아니면 메일로 부탁드립니다.
+
+MAIL -> heukkom0317@gmail.com
