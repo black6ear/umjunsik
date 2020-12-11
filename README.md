@@ -23,7 +23,7 @@ $link
 
 ## 디스코드
 
-![디스코드](https://discord.gg/Rktu9DUtSD)주소입니다.
+https://discord.gg/Rktu9DUtSD
 
 ## 문의
 
