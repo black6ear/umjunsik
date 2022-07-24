@@ -23,7 +23,7 @@ https://discord.gg/Rktu9DUtSD
 
 문의는 제 디스코드 아니면 메일로 부탁드립니다.
 
-MAIL -> heukkom0317@gmail.com
+MAIL -> heukkom317@gmail.com
 
 이 봇은 두 프로젝트의 도움으로 만들어졌습니다.
 
