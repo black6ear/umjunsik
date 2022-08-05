@@ -27,6 +27,5 @@ MAIL -> heukkom317@gmail.com
 
 이 봇은 두 프로젝트의 도움으로 만들어졌습니다.
 
-글리치 호스트를 써서 서버가 불안정하여 핑이튀거나 다운될 수도 있습니다.
 
 [학교식단 API](https://github.com/5d-jh/school-menu-api), [NEIS](https://github.com/5d-jh/neis-code-finder) 두 오픈소스를 사용해 만들어졌습니다.
