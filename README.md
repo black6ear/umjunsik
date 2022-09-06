@@ -14,18 +14,3 @@ $link
 ```
 
 ![급식](https://user-images.githubusercontent.com/58897994/101783062-22556e00-3b3d-11eb-8c12-3b13cff9bb59.png)
-
-## 디스코드
-
-https://discord.gg/Rktu9DUtSD
-
-## 문의
-
-문의는 제 디스코드 아니면 메일로 부탁드립니다.
-
-MAIL -> heukkom317@gmail.com
-
-이 봇은 두 프로젝트의 도움으로 만들어졌습니다.
-
-
-[학교식단 API](https://github.com/5d-jh/school-menu-api), [NEIS](https://github.com/5d-jh/neis-code-finder) 두 오픈소스를 사용해 만들어졌습니다.
